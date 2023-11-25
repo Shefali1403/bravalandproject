@@ -1,0 +1,350 @@
+@media screen and (min-width: 900px) and (max-width: 1000px) {
+  .top-header {
+    height: 4vh;
+  }
+  .navbar-container {
+    height: 8vh;
+  }
+  .menu ul li {
+    font-size: 0.8rem;
+  }
+  .links .writeup {
+    font-size: 0.8rem;
+  }
+  .main-container .heading {
+    margin-left: 4rem;
+  }
+  .main-container button {
+    margin-left: 4rem;
+    width: 13vw;
+    height: 4vh;
+  }
+  .box-cont {
+    width: 35vw;
+    height: 15vh;
+  }
+}
+@media screen and (min-width: 800px) and (max-width: 899px) {
+  .top-header {
+    height: 4vh;
+    font-size: 0.6rem;
+  }
+  .navbar-container {
+    height: 8vh;
+  }
+  .menu ul li {
+    font-size: 0.7rem;
+  }
+  .links .writeup {
+    font-size: 0.8rem;
+    position: relative;
+    right: 32%;
+  }
+  .main-container .heading {
+    margin-left: 4rem;
+  }
+  .main-container button {
+    margin-left: 4rem;
+    width: 13vw;
+    height: 4vh;
+  }
+  .box-cont {
+    width: 39vw;
+    height: 15vh;
+  }
+}
+@media screen and (min-width: 700px) and (max-width: 799px) {
+  .top-header {
+    height: 4vh;
+    font-size: 0.6rem;
+  }
+  .navbar-container {
+    height: 8vh;
+  }
+  .navbar-container .menu {
+    width: 40vw;
+  }
+  .navbar-container .logo h1 {
+    margin-right: 5rem;
+  }
+  .icons .font {
+    font-size: 0.6rem;
+  }
+  .menu ul li {
+    font-size: 0.6rem;
+  }
+  .links .writeup {
+    font-size: 0.6rem;
+    position: relative;
+    right: 32%;
+  }
+  .links .icons {
+    margin-top: 2.5rem;
+  }
+  .main-container .heading {
+    margin-left: 4rem;
+  }
+  .main-container button {
+    margin-left: 4rem;
+    width: 13vw;
+    height: 4vh;
+  }
+  .box-cont {
+    width: 39vw;
+    height: 15vh;
+  }
+}
+@media screen and (min-width: 600px) and (max-width: 699px) {
+  .top-header {
+    height: 4vh;
+    font-size: 0.7rem;
+    text-align: center;
+  }
+  .top-header p {
+    margin-right: 2rem;
+  }
+  .navbar-container {
+    display: flex;
+    flex-direction: column;
+    height: 13vh;
+  }
+  .menu ul {
+    margin-left: 9rem;
+  }
+  .navbar-container .logo h1 {
+    margin-right: 2rem;
+    font-size: 2rem;
+  }
+  .icons .font {
+    font-size: 0.7rem;
+  }
+  .menu ul li {
+    font-size: 1rem;
+  }
+  .links .writeup {
+    font-size: 0.6rem;
+    position: relative;
+    right: 5%;
+    top: 0%;
+  }
+  .links .icons {
+    margin-top: 1.5rem;
+    position: relative;
+    right: 5%;
+    bottom: 30%;
+  }
+  .main-container {
+    height: 58vh;
+    background-repeat: no-repeat;
+    background-size: 110vw 59vh;
+  }
+  .main-container .heading {
+    margin-left: 2rem;
+  }
+  .main-container .heading h1 {
+    font-size: 4rem;
+  }
+  .main-container button {
+    margin-left: 2rem;
+    width: 20vw;
+    height: 4vh;
+  }
+  .box-cont {
+    width: 50vw;
+    height: 15vh;
+  }
+  .box-cont .image img {
+    width: 20vw;
+  }
+}
+
+@media screen and (min-width: 500px) and (max-width: 599px) {
+  .top-header {
+    height: 4vh;
+    font-size: 0.7rem;
+    text-align: center;
+  }
+  .top-header p {
+    margin-right: 2rem;
+  }
+  .navbar-container {
+    display: flex;
+    flex-direction: column;
+    height: 15vh;
+  }
+  .menu ul {
+    margin-left: 5rem;
+  }
+  .navbar-container .logo h1 {
+    margin-right: 2rem;
+    font-size: 2rem;
+  }
+  .icons .font {
+    font-size: 0.8rem;
+  }
+  .menu ul li {
+    font-size: 1rem;
+  }
+  .links .writeup {
+    font-size: 0.6rem;
+    position: relative;
+    right: 5%;
+    top: 0%;
+  }
+  .links .icons {
+    margin-top: 1.5rem;
+    position: relative;
+    right: 5%;
+    bottom: 30%;
+  }
+  .main-container {
+    height: 58vh;
+    background-repeat: no-repeat;
+    background-size: 110vw 59vh;
+  }
+  .main-container .heading {
+    margin-left: 2rem;
+  }
+  .main-container .heading h1 {
+    font-size: 3rem;
+  }
+  .main-container button {
+    margin-left: 2rem;
+    width: 20vw;
+    height: 4vh;
+  }
+  .box-cont {
+    width: 60vw;
+    height: 15vh;
+  }
+  .box-cont .image img {
+    width: 20vw;
+  }
+}
+
+@media screen and (min-width: 400px) and (max-width: 499px) {
+  .top-header {
+    height: 4vh;
+    font-size: 0.7rem;
+    text-align: center;
+  }
+  .top-header p {
+    margin-right: 2rem;
+  }
+  .navbar-container {
+    display: flex;
+    flex-direction: column;
+    height: 13vh;
+  }
+  .menu ul {
+    margin-left: 2rem;
+  }
+  .navbar-container .logo h1 {
+    margin-right: 2rem;
+    font-size: 2rem;
+  }
+  .icons .font {
+    font-size: 0.7rem;
+  }
+  .menu ul li {
+    font-size: 1rem;
+  }
+  .links .writeup {
+    font-size: 0.6rem;
+    position: relative;
+    right: 5%;
+    top: 0%;
+  }
+  .links .icons {
+    margin-top: 1.5rem;
+    position: relative;
+    right: 5%;
+    bottom: 30%;
+  }
+  .main-container {
+    height: 58vh;
+    background-repeat: no-repeat;
+    background-size: 110vw 59vh;
+  }
+  .main-container .heading {
+    margin-left: 2rem;
+  }
+  .main-container .heading h1 {
+    font-size: 3rem;
+  }
+  .main-container button {
+    margin-left: 2rem;
+    width: 20vw;
+    height: 4vh;
+  }
+  .box-cont {
+    width: 100vw;
+    height: 15vh;
+  }
+  .box-cont .image img {
+    width: 20vw;
+  }
+}
+@media screen and (min-width: 300px) and (max-width: 399px) {
+  .top-header {
+    height: 4vh;
+    font-size: 0.5rem;
+    text-align: center;
+  }
+  .top-header p {
+    margin-right: 2rem;
+  }
+  .navbar-container {
+    display: flex;
+    flex-direction: column;
+    height: 17vh;
+  }
+  .menu ul {
+    margin-left: 2rem;
+  }
+  .navbar-container .logo h1 {
+    margin-right: 4rem;
+    font-size: 2rem;
+  }
+  .icons .font {
+    font-size: 0.7rem;
+  }
+  .menu ul li {
+    font-size: 0.6rem;
+  }
+  .links .writeup {
+    font-size: 0.6rem;
+    position: relative;
+    right: 5%;
+    top: 0%;
+  }
+  .links .icons {
+    margin-top: 1.5rem;
+    position: relative;
+    right: 5%;
+    bottom: 30%;
+  }
+  .main-container {
+    height: 58vh;
+    background-repeat: no-repeat;
+    background-size: 110vw 59vh;
+  }
+  .main-container .heading {
+    margin-left: 2rem;
+  }
+  .main-container .heading h1 {
+    font-size: 3rem;
+  }
+  .main-container button {
+    margin-left: 2rem;
+    width: 20vw;
+    height: 4vh;
+  }
+  .box-cont {
+    width: 100vw;
+    height: 15vh;
+  }
+  .box-cont .image img {
+    width: 20vw;
+  }
+}
